@@ -1,4 +1,4 @@
-# Todo Application
+# Tools Used in application
 Todo application developed using JSP, Servlet, JDBC and MySQL Database.
 
 ## Following features
